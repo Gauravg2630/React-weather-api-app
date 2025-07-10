@@ -22,7 +22,7 @@ Built as part of **Day 11** of my #100DaysOfReact challenge.
 
 ## 🔗 Live Demo
 
-react-weather-gaurav.netlify.app
+(https://react-weather-gaurav.netlify.app)
 
 ---
 
