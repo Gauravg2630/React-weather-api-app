@@ -1,0 +1,37 @@
+.app {
+  text-align: center;
+  padding: 50px;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #e0eafc, #cfdef3);
+  min-height: 100vh;
+}
+
+input {
+  padding: 10px;
+  font-size: 1rem;
+  width: 250px;
+  margin: 10px;
+  border: 1px solid #aaa;
+  border-radius: 6px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+.weather-box {
+  background: white;
+  color: #333;
+  margin-top: 30px;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: inline-block;
+  text-align: left;
+}
